@@ -1,5 +1,5 @@
-Name=一加黑色改
+Name=Mobic3
 Style=default
 SupportPlatform=A
-SkinFlags=1 
+SkinFlags=1
 
